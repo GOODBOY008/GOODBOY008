@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GOODBOY008
-- 👀 I’m interested in ...
+- 👀 I’m interested in big data.
 - 🌱 I’m currently learning flink、flink-cdc.
 - 💞️ I’m looking to collaborate on flink
 - 📫 How to reach me 764629910@qq.com
