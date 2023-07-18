@@ -2,7 +2,7 @@
 - 👀 I’m interested in big data.
 - 🌱 I’m currently learning flink、flink-cdc.
 - 💞️ I’m looking to collaborate on flink
-- 📫 How to reach me 764629910@qq.com
+- 📫 How to reach me gongzhongqiang@apache.org
 
 <!---
 GOODBOY008/GOODBOY008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
